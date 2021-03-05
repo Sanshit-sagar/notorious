@@ -1,2 +1,2 @@
 language = "python3"
-run = "python3 textpad.py"
+run = "python3 sample/core.py"
